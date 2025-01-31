@@ -1,6 +1,7 @@
 /*
 Given a 2D integer array of size M*N, find and print the sum of ith column elements separated by space.
-*/#include<iostream>
+*/
+#include<iostream>
 using namespace std;
 int main(){
 int b[100][100];
